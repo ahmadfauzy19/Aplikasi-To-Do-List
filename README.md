@@ -1,2 +1,2 @@
-# Aplikasi-To-Do-List
-aplikasi ini dibuat untuk memnugi salah satu test di perusahaan 
+# Aplikasi-to-do-list
+APlikasi ini dibuat untuk memenuhi test pada salah satu perusahaan
