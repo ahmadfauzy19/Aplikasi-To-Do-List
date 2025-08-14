@@ -6,11 +6,12 @@ Dibangun menggunakan **React.js** dan **Ant Design (Antd)** untuk tampilan moder
 ---
 
 ## 🚀 Fitur
-- ✅ Autentikasi menggunakan JWT
-- 📋 Tambah, edit, hapus to-do list
-- 📌 Ubah status checklist (selesai/belum selesai)
-- 🎨 UI modern dengan Ant Design
-- 🔄 Data di-load secara dinamis dari API
+- ✅ **Autentikasi** - Autentikasi menggunakan JWT
+- ✅ **Tambah Checklist** — Buat daftar tugas baru dengan mudah.
+- ✏️ **Edit Nama Item** — Perbarui nama item yang sudah ada.
+- 🔄 **Ubah Status Item** — Tandai item sebagai **done** atau **pending**.
+- ➕ **Tambah Item ke Checklist** — Tambahkan sub-tugas di dalam checklist.
+- 🗑 **Hapus Checklist / Item** — Hapus tugas yang sudah tidak dibutuhkan.
 
 ---
 
