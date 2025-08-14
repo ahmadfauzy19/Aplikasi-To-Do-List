@@ -22,8 +22,9 @@ Dibangun menggunakan **React.js** dan **Ant Design (Antd)** untuk tampilan moder
 git clone https://github.com/username/Aplikasi-to-do-list.git
 cd Aplikasi-to-do-list
 
-**### 2. install kebutuhan**
+### 2. install kebutuhan
 ```bash
 npm install antd axios jwt-decode react-router-dom
 # atau
 yarn add antd axios jwt-decode react-router-dom
+
