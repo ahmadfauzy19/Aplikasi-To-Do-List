@@ -50,6 +50,16 @@ const ChecklistBoard = () => {
     fetchData();
   }, []);
 
+  useEffect(() => {
+  if (selectedChecklist) {
+    const updatedChecklist = checklists.find(c => c.id === selectedChecklist.id);
+    if (updatedChecklist) {
+      setSelectedChecklist(updatedChecklist);
+    }
+  }
+}, [checklists]);
+
+
   const addChecklist = async () => {
     if (!newTitle.trim()) return;
     try {
